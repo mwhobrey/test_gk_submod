@@ -1,0 +1,3 @@
+[submodule "common/midi-smtp-server"]
+	path = common/midi-smtp-server
+	url = https://github.com/mwhobrey/midi-smtp-server
